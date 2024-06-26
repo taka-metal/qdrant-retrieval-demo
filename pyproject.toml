@@ -12,6 +12,7 @@ numpy = "^2.0.0"
 pandas = "^2.2.2"
 ginza = "^5.2.0"
 ja-ginza = "^5.2.0"
+chardet = "^5.2.0"
 
 
 [build-system]
