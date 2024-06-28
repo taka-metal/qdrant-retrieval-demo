@@ -2,8 +2,8 @@
 Qdrantでベクトル検索を試してみたいデス
 
 # ポイント
-Qdrantにembedding(ベクトル化)機能はなく、事前にベクトル化する必要がある  
-ベクトル検索がメイン機能！
+Qdrantはembedding(ベクトル化)機能は持っていない（2024/6現在）  
+メインの機能はベクトル検索
 
 # 引用
 http://www.rondhuit.com/download.html#ldcc
